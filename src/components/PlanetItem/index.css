@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.item-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.item-head {
+  color: white;
+  font-weight: bold;
+  font-size: 36px;
+  font-family: 'Roboto';
+  margin: 5px;
+}
+
+.item-para {
+  color: white;
+  font-size: 25px;
+  font-family: 'Roboto';
+  margin: 5px;
+}
+
+.item-img {
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
